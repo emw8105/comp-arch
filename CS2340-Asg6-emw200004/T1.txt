@@ -1,0 +1,4 @@
+Congratulations!  You have successfully decrypted the file
+for Prof. Cole's CS2340 class.  While this does not guarantee
+a perfect score for this assignment, it shows you have done a
+significant amount of good work.
